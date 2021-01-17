@@ -1,4 +1,4 @@
 User-agent: *
-Sitemap: https://github.com/Desvelao/ghostblog/sitemap.xml
+Sitemap: https://desvelao.github.io/ghostblog/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
